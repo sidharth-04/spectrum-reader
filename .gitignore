@@ -1,1 +1,6 @@
 /data
+/.idea
+/file_processing
+snr_calc.py
+uncertainty_calc.py
+z-variance-calc.py
