@@ -4,7 +4,7 @@ from keras import layers
 import random
 import matplotlib.pyplot as plt
 
-dir_loc = '/content/drive/MyDrive/PhysicsIA/data/'
+dir_loc = './processed/'
 
 features = np.load(dir_loc+"spectradata.npy")
 labels = np.load(dir_loc+"labeldata.npy")
